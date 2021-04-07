@@ -8,8 +8,8 @@ The new Smart Contract Generator for BEP20 Token.
 
 ## Try it
 
-[https://vittominacori.github.io/bep20-generator](https://vittominacori.github.io/bep20-generator)
+[https://marcianovc.github.io/bep20-generator](https://marcianovc.github.io/bep20-generator)
 
 ## License
 
-Code released under the [MIT License](https://github.com/vittominacori/bep20-generator/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/marcianovc/bep20-generator/blob/master/LICENSE).
